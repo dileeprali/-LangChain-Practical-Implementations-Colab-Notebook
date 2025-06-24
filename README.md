@@ -1,7 +1,7 @@
 # -LangChain-Practical-Implementations-Colab-Notebook
 This repository contains practical, hands-on implementations of key LangChain concepts using Google Colab. The examples demonstrate real-world usage of LangChain with the OpenAI API and Hugging Face models, making it easy to understand and apply modern LLM-based workflows.
 
-📘# What's Inside
+📘 What's Inside
 Explore and experiment with the following LangChain components:
 
 🔧 LLM Integration: Using OpenAI and Hugging Face models for text generation
